@@ -13,6 +13,7 @@ class GitStudyApplicationTests {
         System.out.println("hello git--third");
         System.out.println("hello hot-fix git-first");
         System.out.println("master");
+        System.out.println("hot-fix");
     }
 
 }
