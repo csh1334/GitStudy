@@ -10,6 +10,7 @@ class GitStudyApplicationTests {
     void contextLoads() {
         System.out.println("hello git");
         System.out.println("hello git--second");
+        System.out.println("hello git--third");
     }
 
 }
