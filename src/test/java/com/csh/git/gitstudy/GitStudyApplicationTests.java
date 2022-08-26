@@ -9,6 +9,7 @@ class GitStudyApplicationTests {
     @Test
     void contextLoads() {
         System.out.println("hello git");
+        System.out.println("hello git--second");
     }
 
 }
