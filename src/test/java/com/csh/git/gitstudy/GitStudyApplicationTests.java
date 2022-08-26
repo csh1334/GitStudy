@@ -11,6 +11,7 @@ class GitStudyApplicationTests {
         System.out.println("hello git");
         System.out.println("hello git--second");
         System.out.println("hello git--third");
+        System.out.println("hello hot-fix git-first");
     }
 
 }
