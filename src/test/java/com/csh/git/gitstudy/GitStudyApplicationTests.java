@@ -19,6 +19,8 @@ class GitStudyApplicationTests {
          System.out.println("master");
         System.out.println("hot-fix");
         System.out.println("提交");
+
+        System.out.println("1--2");
     }
 
 }
