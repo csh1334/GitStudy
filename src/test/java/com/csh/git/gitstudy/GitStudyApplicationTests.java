@@ -14,6 +14,7 @@ class GitStudyApplicationTests {
         System.out.println("hello hot-fix git-first");
         System.out.println("master");
         System.out.println("hot-fix");
+        System.out.println("提交");
     }
 
 }
